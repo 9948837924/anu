@@ -1,7 +1,7 @@
 n=int(input("enter a number"))
 if(n>0):
-    print("the number is positive")
+    print("positive")
 elif(n<0):
-    print("the number is negative")
+    print("negative")
 else:
-    print("the number is invalid")
+    print("invalid")
